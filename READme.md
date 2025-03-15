@@ -23,4 +23,3 @@ The study plan is structured so that each day presents a new challenge or set of
 - 🎖️ **Recognition:** Earning a badge upon completion serves as a visual validation of progress and acquired skills.
 
 For more information and access to the study plan, visit the official LeetCode page: [LeetCode - 30 Days of JavaScript](https://leetcode.com/studyplan/30-days-of-javascript/)
-
